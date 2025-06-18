@@ -11,7 +11,7 @@ const Home: React.FC = () => {
       <ProductCard
         title="Чебурашка"
         origin="Россия"
-        price={500000}
+        price={3490000}
         currency="RUB"
         imageUrl={cheburarashka}
       />

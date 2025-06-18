@@ -7,7 +7,8 @@
 npx create-react-app my-app --template typescript
 ```
 
-# Add the components folder and the home component file
+# Add the components folder 
+I added the components folder and added the files there 
 
 
 
